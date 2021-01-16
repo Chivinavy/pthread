@@ -1,0 +1,3 @@
+﻿  saveandsave.cpp
+C:\Users\slend\Downloads\pthreads-w32-2-9-1-release\Pre-built.2\include\pthread.h(320,17): error C2011: timespec: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(39): message : см. объявление "timespec"
